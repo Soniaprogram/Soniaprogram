@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an Electrical Engineer, Data Analyst, Software Developer, and aspiring Data Scientist.
+
+To learn more about me visit my website: https://soniasharma.herokuapp.com/
+
 <!--
 **Soniaprogram/Soniaprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
