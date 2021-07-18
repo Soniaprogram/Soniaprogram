@@ -2,10 +2,14 @@
 
 I am an Electrical Engineer, Data Analyst, Software Developer, and aspiring Data Scientist.
 
-To learn more about me visit my website: https://soniasharma.herokuapp.com/
+My most recent project is Deciphering the Indus Valley Script using Computational Linguistics, ETL tools, Machine Learning, and Statistics. View here: https://github.com/Soniaprogram/Deciphering_the_Indus_Valley_Script
 
-Connect with me on LinkedIn: www.linkedin.com/in/soniassharma
-Email me at: soniashar95@gmail.com
+- 💻 To learn more about me visit my website: https://soniasharma.herokuapp.com/
+
+- 🔗 Connect with me on LinkedIn: www.linkedin.com/in/soniassharma
+
+- 📫 Email me at: soniashar95@gmail.com
+
 
 
 <!--
