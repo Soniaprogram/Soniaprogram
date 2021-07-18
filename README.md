@@ -4,6 +4,10 @@ I am an Electrical Engineer, Data Analyst, Software Developer, and aspiring Data
 
 To learn more about me visit my website: https://soniasharma.herokuapp.com/
 
+Connect with me on LinkedIn: www.linkedin.com/in/soniassharma
+Email me at: soniashar95@gmail.com
+
+
 <!--
 **Soniaprogram/Soniaprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
